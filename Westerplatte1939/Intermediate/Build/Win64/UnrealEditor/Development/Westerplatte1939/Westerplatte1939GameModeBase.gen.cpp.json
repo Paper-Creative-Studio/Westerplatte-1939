@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\westerplatte1939\\intermediate\\build\\win64\\unrealeditor\\inc\\westerplatte1939\\westerplatte1939gamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\westerplatte1939\\intermediate\\build\\win64\\westerplatte1939editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\westerplatte1939\\intermediate\\build\\win64\\unrealeditor\\development\\westerplatte1939\\definitions.westerplatte1939.h",
+            "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\westerplatte1939\\source\\westerplatte1939\\westerplatte1939gamemodebase.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\westerplatte1939\\intermediate\\build\\win64\\unrealeditor\\inc\\westerplatte1939\\westerplatte1939gamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

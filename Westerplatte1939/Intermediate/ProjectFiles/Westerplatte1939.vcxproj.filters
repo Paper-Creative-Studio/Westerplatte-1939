@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Westerplatte1939.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Westerplatte1939.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Westerplatte1939Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\Westerplatte1939">
+      <UniqueIdentifier>{8AF0A77B-C43C-32C3-82FE-DB124CE22580}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Westerplatte1939\BasicPlayer.cpp">
+      <Filter>Source\Westerplatte1939</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Westerplatte1939\BasicPlayer.h">
+      <Filter>Source\Westerplatte1939</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Westerplatte1939\Westerplatte1939.Build.cs">
+      <Filter>Source\Westerplatte1939</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Westerplatte1939\Westerplatte1939.cpp">
+      <Filter>Source\Westerplatte1939</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Westerplatte1939\Westerplatte1939.h">
+      <Filter>Source\Westerplatte1939</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Westerplatte1939\Westerplatte1939GameModeBase.cpp">
+      <Filter>Source\Westerplatte1939</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Westerplatte1939\Westerplatte1939GameModeBase.h">
+      <Filter>Source\Westerplatte1939</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
