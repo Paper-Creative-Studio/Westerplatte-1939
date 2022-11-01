@@ -41,6 +41,18 @@
     <ClInclude Include="..\..\Source\Westerplatte1939\BasicPlayer.h">
       <Filter>Source\Westerplatte1939</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Westerplatte1939\FirstPlayer.cpp">
+      <Filter>Source\Westerplatte1939</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Westerplatte1939\FirstPlayer.h">
+      <Filter>Source\Westerplatte1939</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Westerplatte1939\FirstPlayerController.cpp">
+      <Filter>Source\Westerplatte1939</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Westerplatte1939\FirstPlayerController.h">
+      <Filter>Source\Westerplatte1939</Filter>
+    </ClInclude>
     <None Include="..\..\Source\Westerplatte1939\Westerplatte1939.Build.cs">
       <Filter>Source\Westerplatte1939</Filter>
     </None>
