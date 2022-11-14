@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\template\\intermediate\\build\\win64\\unrealeditor\\inc\\template\\tp_pickupcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\template\\intermediate\\build\\win64\\templateeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\template\\intermediate\\build\\win64\\unrealeditor\\development\\template\\definitions.template.h",
+            "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\template\\source\\template\\tp_pickupcomponent.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\spherecomponent.generated.h",
+            "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\template\\source\\template\\templatecharacter.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\template\\intermediate\\build\\win64\\unrealeditor\\inc\\template\\templatecharacter.generated.h",
+            "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\template\\intermediate\\build\\win64\\unrealeditor\\inc\\template\\tp_pickupcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

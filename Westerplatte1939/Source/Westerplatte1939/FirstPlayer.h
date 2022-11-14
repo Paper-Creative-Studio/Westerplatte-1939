@@ -4,12 +4,20 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "Camera/CameraComponent.h"
 #include "FirstPlayer.generated.h"
 
+class UInputComponent;
+class USkeletalMeshComponent;
+class USceneComponent;
+class UCameraComponent;
+class UAnimMontage;
+class USoundBase;
 UCLASS()
 class WESTERPLATTE1939_API AFirstPlayer : public ACharacter
 {
 	GENERATED_BODY()
+		
 
 public:
 	// Sets default values for this character's properties
@@ -26,7 +34,18 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
+	
+
+
+
 protected:
+	//funkcje
 	void MoveForward(float axis);
 	void MoveRight(float axis);
+	void Interact();
+
+public:
+	//zmienne
+	//UCameraComponent* Playercamera;
+	
 };

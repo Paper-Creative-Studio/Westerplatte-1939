@@ -1,0 +1,8 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\Lukasz\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939).
+  Parsing headers for Westerplatte1939Editor
+    Running UnrealHeaderTool "C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Westerplatte1939.uproject" "C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Intermediate\Build\Win64\Westerplatte1939Editor\Development\Westerplatte1939Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Lukasz\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for Westerplatte1939Editor in 5,2126659 seconds
+UnrealBuildTool : error : Unable to build while Live Coding is active. Exit the editor and game, or press Ctrl+Alt+F11 if iterating on code in the editor or game
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: Polecenie „D:\UE_5.0\Engine\Build\BatchFiles\Build.bat Westerplatte1939Editor Win64 Development -Project="C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Westerplatte1939.uproject" -WaitMutex -FromMsBuild” zostało zakończone przez kod 6.

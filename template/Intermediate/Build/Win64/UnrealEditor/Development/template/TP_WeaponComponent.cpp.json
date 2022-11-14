@@ -1,0 +1,34 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\template\\source\\template\\tp_weaponcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\template\\intermediate\\build\\win64\\templateeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\template\\intermediate\\build\\win64\\unrealeditor\\development\\template\\definitions.template.h",
+            "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\template\\source\\template\\tp_weaponcomponent.h",
+            "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\template\\intermediate\\build\\win64\\unrealeditor\\inc\\template\\tp_weaponcomponent.generated.h",
+            "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\template\\source\\template\\templatecharacter.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\template\\intermediate\\build\\win64\\unrealeditor\\inc\\template\\templatecharacter.generated.h",
+            "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\template\\source\\template\\templateprojectile.h",
+            "c:\\users\\lukasz\\documents\\github\\westerplatte-1939\\template\\intermediate\\build\\win64\\unrealeditor\\inc\\template\\templateprojectile.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\dialoguetypes.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

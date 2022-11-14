@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Lukasz\\Documents\\GitHub\\Westerplatte-1939\\template\\Source\\template\\template.Build.cs",
+		"C:\\Users\\Lukasz\\Documents\\GitHub\\Westerplatte-1939\\template\\Source\\template.Target.cs",
+		"C:\\Users\\Lukasz\\Documents\\GitHub\\Westerplatte-1939\\template\\Source\\templateEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
