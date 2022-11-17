@@ -46,6 +46,6 @@ protected:
 
 public:
 	//zmienne
-	//UCameraComponent* Playercamera;
+	UCameraComponent* Playercamera;
 	
 };

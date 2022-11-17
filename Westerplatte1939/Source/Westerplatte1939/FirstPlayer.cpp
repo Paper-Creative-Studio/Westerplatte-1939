@@ -5,6 +5,7 @@
 #include "Camera/CameraComponent.h"
 #include "Components/CapsuleComponent.h"
 #include "Components/InputComponent.h"
+#include "Components/SceneComponent.h"
 #include "GameFramework/InputSettings.h"
 // Sets default values
 AFirstPlayer::AFirstPlayer()
@@ -55,12 +56,15 @@ void AFirstPlayer::MoveRight(float axis)
 }
 void AFirstPlayer::Interact()
 {
-	UE_LOG(LogTemp, Warning, TEXT("interacting"));
-	/*
-	FVector Start = Playercamera->GetComponentLocation();
-	FVector End = Start + Playercamera->GetComponentLocation() + 500.0f;
+	/*TArray<AActor*> Result;
+	GetOverlappingActors(Result, AFirstPlayer::StaticClass());
+	UE_LOG(LogTemp, Error, TEXT("PROSZE NIE CRASHUJ BO MNIE COS JEBNIE: "), Result.ToString())*/
+	/*FVector Start = Playercamera->GetComponentLocation();
+	UE_VLOG*/
+	//FVector End = Start + Playercamera->GetComponentLocation() + 500.0f;
+	//UE_LOG(LogTemp, Warning, TEXT("interacting:"), Start);
 
-	FHitResult HitActor;
+	/*FHitResult HitActor;
 	FCollisionQueryParams Params;
 	Params.AddIgnoredActor(this);
 	if (GetWorld()->LineTraceSingleByChannel(HitActor, Start, End, ECollisionChannel::ECC_WorldStatic, Params))
