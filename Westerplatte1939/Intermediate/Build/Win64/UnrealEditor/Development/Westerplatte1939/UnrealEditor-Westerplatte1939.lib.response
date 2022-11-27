@@ -7,13 +7,12 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Intermediate\Build\Win64\Westerplatte1939Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Intermediate\Build\Win64\UnrealEditor\Development\Westerplatte1939\BasicPlayer.cpp.obj"
-"C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Intermediate\Build\Win64\UnrealEditor\Development\Westerplatte1939\FirstPlayer.cpp.obj"
+"C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Intermediate\Build\Win64\UnrealEditor\Development\Westerplatte1939\firstplayer.cpp.obj"
 "C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Intermediate\Build\Win64\UnrealEditor\Development\Westerplatte1939\FirstPlayerController.cpp.obj"
+"C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Intermediate\Build\Win64\UnrealEditor\Development\Westerplatte1939\MyClass.cpp.obj"
 "C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Intermediate\Build\Win64\UnrealEditor\Development\Westerplatte1939\Westerplatte1939.cpp.obj"
 "C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Intermediate\Build\Win64\UnrealEditor\Development\Westerplatte1939\Westerplatte1939GameModeBase.cpp.obj"
-"C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Intermediate\Build\Win64\UnrealEditor\Development\Westerplatte1939\BasicPlayer.gen.cpp.obj"
-"C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Intermediate\Build\Win64\UnrealEditor\Development\Westerplatte1939\FirstPlayer.gen.cpp.obj"
+"C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Intermediate\Build\Win64\UnrealEditor\Development\Westerplatte1939\firstplayer.gen.cpp.obj"
 "C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Intermediate\Build\Win64\UnrealEditor\Development\Westerplatte1939\FirstPlayerController.gen.cpp.obj"
 "C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Intermediate\Build\Win64\UnrealEditor\Development\Westerplatte1939\Westerplatte1939.init.gen.cpp.obj"
 "C:\Users\Lukasz\Documents\GitHub\Westerplatte-1939\Westerplatte1939\Intermediate\Build\Win64\UnrealEditor\Development\Westerplatte1939\Westerplatte1939GameModeBase.gen.cpp.obj"

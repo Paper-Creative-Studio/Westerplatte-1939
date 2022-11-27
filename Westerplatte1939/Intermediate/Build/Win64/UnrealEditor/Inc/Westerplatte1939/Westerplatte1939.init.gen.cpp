@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeWesterplatte1939_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x63616DA0,
-				0x83097968,
+				0x74CFB4F3,
+				0xDF0969FD,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_Westerplatte1939.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_Westerplatte1939.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Westerplatte1939(Z_Construct_UPackage__Script_Westerplatte1939, TEXT("/Script/Westerplatte1939"), Z_Registration_Info_UPackage__Script_Westerplatte1939, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x63616DA0, 0x83097968));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Westerplatte1939(Z_Construct_UPackage__Script_Westerplatte1939, TEXT("/Script/Westerplatte1939"), Z_Registration_Info_UPackage__Script_Westerplatte1939, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x74CFB4F3, 0xDF0969FD));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

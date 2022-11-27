@@ -35,22 +35,22 @@
     <Filter Include="Source\Westerplatte1939">
       <UniqueIdentifier>{8AF0A77B-C43C-32C3-82FE-DB124CE22580}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\Westerplatte1939\BasicPlayer.cpp">
+    <ClCompile Include="..\..\Source\Westerplatte1939\firstplayer.cpp">
       <Filter>Source\Westerplatte1939</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\Westerplatte1939\BasicPlayer.h">
-      <Filter>Source\Westerplatte1939</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\Westerplatte1939\FirstPlayer.cpp">
-      <Filter>Source\Westerplatte1939</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Westerplatte1939\FirstPlayer.h">
+    <ClInclude Include="..\..\Source\Westerplatte1939\firstplayer.h">
       <Filter>Source\Westerplatte1939</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\Westerplatte1939\FirstPlayerController.cpp">
       <Filter>Source\Westerplatte1939</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Westerplatte1939\FirstPlayerController.h">
+      <Filter>Source\Westerplatte1939</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Westerplatte1939\MyClass.cpp">
+      <Filter>Source\Westerplatte1939</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Westerplatte1939\MyClass.h">
       <Filter>Source\Westerplatte1939</Filter>
     </ClInclude>
     <None Include="..\..\Source\Westerplatte1939\Westerplatte1939.Build.cs">
