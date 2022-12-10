@@ -19,7 +19,6 @@ class WESTERPLATTE1939_API Afirstplayer : public ACharacter
 public:
 	// Sets default values for this character's properties
 	Afirstplayer();
-	UP
 	
 	//UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera)
 		
