@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Westerplatte1939",
-			"Path": "C:\\Users\\Lukasz\\Documents\\GitHub\\Westerplatte-1939\\Westerplatte1939\\Source\\Westerplatte1939.Target.cs",
+			"Path": "C:\\Users\\Lukasz\\Documents\\GitHub\\Westerplatte-1939\\Westerplatte1939 5.2\\Source\\Westerplatte1939.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "Westerplatte1939Editor",
-			"Path": "C:\\Users\\Lukasz\\Documents\\GitHub\\Westerplatte-1939\\Westerplatte1939\\Source\\Westerplatte1939Editor.Target.cs",
+			"Path": "C:\\Users\\Lukasz\\Documents\\GitHub\\Westerplatte-1939\\Westerplatte1939 5.2\\Source\\Westerplatte1939Editor.Target.cs",
 			"Type": "Editor"
 		}
 	]
